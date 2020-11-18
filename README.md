@@ -1,4 +1,5 @@
 # Student-Questioner Quiz
+<p>Developed in <strong>Python</strong> using <strong>Tkinter</strong></p>
 <h2>FRONTEND</h2>
 <p>The quiz contains 16 questions related to IT.</p>
 <p>To start the quiz you have to enter student name, student surname, and student ID card.</p>
